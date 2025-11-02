@@ -17,7 +17,7 @@ The repository is structured as follows, with each notebook corresponding to a c
 1. **Chapter 1: Exploratory Data Analysis**
    - Introduction to the dataset
    - Summary statistics
-   - Data visualization techniqu
+   - Data visualization techniques
 
 2. **Chapter 2: Data and Sampling Distributions**
    - Bias

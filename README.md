@@ -1,6 +1,6 @@
 # Practical Statistics for Data Scientists - Jupyter Notebooks
 This repo will be updated in 2030, new feature will be realeased
-
+A chapter concerning deep learning will be added
 And exercies provided at the end
 This repository contains Jupyter notebooks that correspond to each chapter of the book **"Practical Statistics for Data Scientists"**. 
 In these notebooks, I explain the different statistical concepts presented in the book and apply them using Python to a dataset from Kaggle on stroke prediction.

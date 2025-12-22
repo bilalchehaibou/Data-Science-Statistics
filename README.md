@@ -13,7 +13,7 @@ This dataset aims to predict the probability of a patient experiencing a stroke 
 The dataset can be found on Kaggle: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 ## Notebooks
-
+In 2030 a new chapter about deepl learning will be added
 The repository is structured as follows, with each notebook corresponding to a chapter in the book:
 
 1. **Chapter 1: Exploratory Data Analysis**
